@@ -3,6 +3,8 @@ Are you interested to explore the zkSync Era Account Abstraction native implemen
 
 ## Account Abstraction Tutorials
 
+First things first, lets [on-board you to zkSync Era](https://github.com/matter-labs/zksync-starting-template) (soon to be public).
+
 1. Daily Spend Limit on [docs](https://era.zksync.io/docs/dev/tutorials/aa-daily-spend-limit.html), and on [GitHub](https://github.com/matter-labs/daily-spendlimit-tutorial)
 2. Building a custom paymaster, on [docs](https://era.zksync.io/docs/dev/tutorials/custom-paymaster-tutorial.html), and on [GitHub](https://github.com/matter-labs/custom-paymaster-tutorial)
 3. Account abstraction multisig, on [docs](https://era.zksync.io/docs/dev/tutorials/custom-aa-tutorial.html), and on [GitHub](https://github.com/matter-labs/custom-aa-tutorial)
