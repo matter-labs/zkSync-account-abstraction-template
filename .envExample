@@ -1,0 +1,6 @@
+private_key=<general account for deployment >
+account_private_key =<owner private key >
+api_key = <your etherscan apikey>
+will_address_testnet = "0x86Aba3c3FfF48b8B1EaC81269a43262625Aa9cD3"<put yours>
+willAccount_address_testnet = "0x19f8C3a43D7169c557481711313c16A63d56cE7D"<put yours>
+factory_address_testnet = "0x7b9438D33Cce890Ae6c000529D1d12eb66f5Ab74"<put yours> 
