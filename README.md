@@ -1,5 +1,5 @@
 ## 💎 💎 💎 <span style="color:#c94d68"> Elhaj </span> 💎 💎 💎
-
+* before we go through the wheel account I highly recommend you to read [this](./will.md)
 # WillAccount:
 
 **Disclaimer**: The concept of the `Will` smart contract is not a new one, and I want to clarify that I've been contemplating and develop a version of it for around 8 months. An early version of this concept can be found on my GitHub repository [here](https://github.com/elhajin/WillSmartContract).now with zksync account abstraction It make it really practical.
@@ -535,11 +535,7 @@ clone this repo and install dependencies:
 _make sure you have [hardhat](https://hardhat.org/docs) and [foundry](https://github.com/foundry-rs/foundry) installed._
 
 ```.sh
-> git clone https://github.com/elhajin/Will-SmartAccount-zksync.git
-```
-
-```.sh
-> cd Will-SmartAccount-zksync && yarn install
+> yarn install
 ```
 
 ```.sh
